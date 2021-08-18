@@ -1,0 +1,3 @@
+# Agent Based Passenger Transport Model: case study of France
+
+We will focus in this paper on the application of ABM methods for transportation of passengers and their choice of transport means. To create a good transport based model, we will focus on existing data so as to try to reproduce the conditions in which travelling is done today and deduce people's motivation for this. The main goal will be to assess the complementary existence of two important transport method: train and airplane. A second advantage of modelling in general, and ABM models in particular, is that in the case of transport infrastructure, investments plans need to be thoroughly tested before being implemented.
