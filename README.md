@@ -3,9 +3,9 @@
 We will focus in this paper on the application of agent based modelling (ABM) methods for transportation of passengers and their choice of transport means. To create a good transport based model, we will focus on existing data so as to try to reproduce the conditions in which travelling is done today and deduce people's motivation for this. The main goal will be to assess the complementary existence of two important transport method: train and airplane. A second advantage of modelling in general, and ABM models in particular, is that in the case of transport infrastructure, investments plans need to be thoroughly tested before being implemented.
 
 Agents are households with certain individual characteristics that may impact the simulation.
-The goal is to have a representative population based on their characteristics. The database used to achieve this was the Enquête Nationale Transports et Déplacements (2007 - 2008), which gave a broad overview on the habits and preferences of people living in France when it comes to transport. 
-There are 2651 individuals in the database representative of the French population living in the departments where an airport is existing. 
-The sample population from the database has the following distribution:
+The goal is to have a representative population based on their characteristics. The data to test the model was provided in the ![Enquête Nationale Transports et Déplacements (2007 - 2008)](https://www.statistiques.developpement-durable.gouv.fr/enquete-nationale-transports-et-deplacements-entd-2008), which gave a broad overview on the habits and preferences of people living in France when it comes to transport. 
+There are 2651 individuals in the dataset, representative of the French population living in the departments where an airport is existing. 
+The sampled population from the database has the following distribution:
 
 ![Population](https://github.com/JovanP1/Passenger-Transport-Model-for-France/blob/main/results/Population_pond.png)
 
